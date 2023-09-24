@@ -15,7 +15,7 @@ You can integrate FlashCache into your project using Swift Package Manager (SPM)
 
 1. In Xcode, open your project.
 2. Go to "File" > "Swift Packages" > "Add Package Dependency..."
-3. Enter the URL of this FlashCache repository: `https://github.com/yourusername/FlashCache`
+3. Enter the URL of this FlashCache repository: `https://github.com/js8developer/FlashCache`
 4. Select the package from the search results.
 5. Choose the version or branch you want to use.
 6. Add the package to your desired target.
